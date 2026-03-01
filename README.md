@@ -10,7 +10,7 @@ Este projeto é um **gerador de QR Code** desenvolvido com **PyQt6** para a inte
 - **Limpeza**: Limpeza dos campos de entrada e da imagem gerada.
 
 ## Demonstração
-![Demonstração do app](qr_code_gif.gif)
+![Demonstração do app](qr_code_video.gif)
 
 ## Pré-requisitos
 
