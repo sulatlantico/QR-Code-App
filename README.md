@@ -9,6 +9,10 @@ Este projeto é um **gerador de QR Code** desenvolvido com **PyQt6** para a inte
 - **Salvar em PNG**: O QR Code gerado pode ser salvo como uma imagem em formato PNG.
 - **Limpeza**: Limpeza dos campos de entrada e da imagem gerada.
 
+## Demonstração
+![Demonstração do app](qr_code_video.gif)
+
 ## Pré-requisitos
 
 Para executar, basta clicar no arquivo **Generator.exe** dentro da pasta .exe.
+
